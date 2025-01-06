@@ -1,5 +1,5 @@
 # Smart Home IoT System for Temperature Management
-#### Watch Demo: https://drive.google.com/file/d/1v4iRNhsKFiLxRUcpIKwGafjgqwKgiEzB/view?usp=sharing
+#### Watch Demo: https://drive.google.com/file/d/1Nb1maWHzOrFK5vONuqPDB5KDEbqugR_7/view?usp=sharing
 
 ## Project Description
 The Smart Home Temperature Management System is designed to enhance indoor comfort by intelligently regulating the temperature based on the **Heat Index (HI)**. The system employs sensors to continuously monitor ambient temperature (T) and relative humidity (RH) within the home environment. Using these measurements, the Heat Index (HI) is calculated using a specified formula.
